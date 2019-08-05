@@ -1,0 +1,17 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    scrollPastEnd: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "5279f4be-c043-4408-8344-f69bc97136c6"
+  "git-diff":
+    showIconsInEditorGutter: true
+  "linter-ui-default": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnlyLines: true
+    removeTrailingWhitespace: false
