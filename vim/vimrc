@@ -43,3 +43,6 @@ set title                         " change terminal's title to filename
 " https://linuxhint.com/vim_syntax_highlighting/
 :silent! syntax on
 :silent! color twilight256
+
+" load haproxy syntax if installed
+:silent! au BufRead,BufNewFile haproxy* set ft=haproxy
