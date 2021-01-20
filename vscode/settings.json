@@ -7,9 +7,15 @@
     "editor.tabSize": 4,
     "files.insertFinalNewline": true,
     "breadcrumbs.enabled": false,
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": true,
     "workbench.activityBar.visible": true,
     "extensions.ignoreRecommendations": true,
     "window.zoomLevel": 0,
     "[plaintext]": {},
+    "editor.trimAutoWhitespace": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#303030",
+        "statusBar.noFolderBackground" : "#222225",
+        "statusBar.debuggingBackground": "#511f1f"
+    }
 }
