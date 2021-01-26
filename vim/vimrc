@@ -19,7 +19,7 @@ set hlsearch        " highlight search matches
 
 " set whitespace characters
 " https://stackoverflow.com/a/29787362/7341009
-set listchars=eol:¬,tab:>·,trail:~,extends:>,precedes:<,space:·
+set listchars=eol:¬,tab:>·,trail:~,extends:>,precedes:<
 set list
 
 
