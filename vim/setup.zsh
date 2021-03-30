@@ -22,4 +22,3 @@ download "https://www.vim.org/scripts/download_script.php?src_id=6924" \
 # install vimrc
 download "https://raw.githubusercontent.com/bryanheinz/personal-configs/master/vim/vimrc" \
     "$HOME/.vimrc"
-
