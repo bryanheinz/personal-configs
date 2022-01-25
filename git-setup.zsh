@@ -6,3 +6,5 @@ e=$(echo "Z2l0QGJyeWFuaGVpbnouY29tCg==" | base64 --decode)
 git config --global pull.ff only
 git config --global user.name "$n"
 git config --global user.email "$e"
+
+git config --global init.defaultBranch main
