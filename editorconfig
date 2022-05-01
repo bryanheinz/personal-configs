@@ -15,3 +15,6 @@ end_of_line = crlf
 
 [*.plist]
 indent_style = tab
+
+[*.bunch]
+indent_size = 3
