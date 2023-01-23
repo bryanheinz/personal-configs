@@ -1,6 +1,9 @@
 " default source
 "source $VIMRUNTIME/debian.vim " seems to be the default for Debian tiny-vim
-source $VIMRUNTIME/defaults.vim
+"source $VIMRUNTIME/defaults.vim
+" the fallback default for Debian and macOS is /usr/share/vim/vimrc
+" Debian symlinks /usr/share/vim/vimrc to /etc/vim/vimrc
+source /usr/share/vim/vimrc
 
 
 " https://dougblack.io/words/a-good-vimrc.html#ui
