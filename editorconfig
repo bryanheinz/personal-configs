@@ -13,8 +13,11 @@ trim_trailing_whitespace = false
 [*.ps1]
 end_of_line = crlf
 
-[*.plist]
-indent_style = tab
-
 [*.bunch]
 indent_size = 3
+
+[*.yml]
+indent_size = 2
+
+[*.{plist,xml}]
+indent_style = tab
